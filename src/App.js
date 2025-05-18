@@ -8,12 +8,11 @@ import Header from "./components/Header";
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/portfolio">
       <Header />
       <main>
         <Routes>
-          <Route path="/" element={<Navigate to="/home" />} />
-          <Route path="/home" element={<Home />}/>
+          <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />}/>
           <Route path="/works" element={<Works />}/>
           <Route path="/Contact" element={<Contact />}/>

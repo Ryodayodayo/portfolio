@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ryodayodayo/portfolio.git/static/css/main.e5c03c8a.css",
+    "main.js": "/Ryodayodayo/portfolio.git/static/js/main.e6c927e5.js",
+    "static/js/453.1407b060.chunk.js": "/Ryodayodayo/portfolio.git/static/js/453.1407b060.chunk.js",
+    "index.html": "/Ryodayodayo/portfolio.git/index.html",
+    "main.e5c03c8a.css.map": "/Ryodayodayo/portfolio.git/static/css/main.e5c03c8a.css.map",
+    "main.e6c927e5.js.map": "/Ryodayodayo/portfolio.git/static/js/main.e6c927e5.js.map",
+    "453.1407b060.chunk.js.map": "/Ryodayodayo/portfolio.git/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5c03c8a.css",
+    "static/js/main.e6c927e5.js"
+  ]
+}

@@ -8,7 +8,7 @@ import Header from "./components/Header";
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/">
       <Header />
       <main>
         <Routes>
